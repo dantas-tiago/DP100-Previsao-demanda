@@ -1,7 +1,8 @@
 # DP100-Previsao-demanda
 Você é dono da sorveteria Gelato Mágico, em uma cidade litorânea, e percebe que as vendas variam conforme a temperatura. Sem planejamento, pode haver desperdício ou falta de produto. Para evitar prejuízos, você decide usar Machine Learning para prever a demanda com base na temperatura e ajustar a produção de forma eficiente.
 
-Projeto 1
+Projeto 1 - Evidencias tb no docx na pasta "PastaEvidencias"
+
 1 – criar dataset (ou se tiver já o dataset, garantir que tenha acesso)
  <img width="886" height="627" alt="image" src="https://github.com/user-attachments/assets/f789e593-3de9-4a6f-b843-53481de8b854" />
 
